@@ -1,0 +1,107 @@
+[
+    {
+        "id":1,
+        "name":"Adventure Tales",
+        "title":"Exciting Adventures",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id":2,
+        "name":"Mystery Chronicles",
+        "title":"Mysterious Secrets",
+        "price":200,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id":3,
+        "name":"Science Wonders",
+        "title":"Amazing Science",
+        "price":150,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id":4,
+        "name":"Fairy Tales",
+        "title":"Magical Stories",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id":5,
+        "name":"History Legends",
+        "title":"Epic History",
+        "price":100,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id":6,
+        "name":"Story Time",
+        "title":"Fun Short Stories",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id":7,
+        "name":"Fantasy World",
+        "title":"Epic Fantasy",
+        "price":120,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id":8,
+        "name":"Learning Hub",
+        "title":"Knowledge Boost",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+
+    {
+        "id": 9,
+        "name": "Learning Hub",
+        "title": "Knowledge Boost",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 10,
+        "name": "Smart Reads",
+        "title": "Brainy Insights",
+        "price": 15,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 11,
+        "name": "Knowledge Base",
+        "title": "Deep Learning 101",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 12,
+        "name": "Pro Books",
+        "title": "Advanced Coding",
+        "price": 20,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "id": 13,
+        "name": "Book World",
+        "title": "Creative Writing",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?uid=R211907990&ga=GA1.1.46820179.1755877215&semt=ais_hybrid&w=740&q=80"
+    }
+]
